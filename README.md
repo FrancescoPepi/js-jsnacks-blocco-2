@@ -84,3 +84,15 @@ Stampa il risultato
 ---
 
 ---
+
+### **_JSnack4_** (_BONUS_)
+
+- _Dichiaro_ un Array _InsiemeUno_ (5 elemnti)
+- _Dichiaro_ un Array _InsiemeDue_ (7 elementi)
+
+**PER OGNI** Array
+
+- **SE** _InsiemeUno_ < _InsiemeDue_
+  - assegna un numero randomico intero a _InsiemeUno_ ;
+- **ALTRIMENTI SE** _InsiemeUno_ > _InsiemeDue_
+  - assegna un numero randomico intero a _InsiemeDue_ ;
