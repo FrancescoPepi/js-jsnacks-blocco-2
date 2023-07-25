@@ -1,0 +1,16 @@
+// Crea un array di numeri interi
+const IsiemeNumeri = [3, 4, 5, 32, 65, 23, 10, 11, 56];
+
+// Dichiara NumeriDispari
+let NumeriDispari = 0;
+
+// PER OGNI numero
+for (let i = 0; i < IsiemeNumeri.length; i++) {
+  // SE si trova in posizione dispari
+  if (i % 2 != 0) {
+    NumeriDispari = NumeriDispari + IsiemeNumeri[i];
+  }
+  console.log(NumeriDispari);
+}
+
+console.log("Il risultato è: " + NumeriDispari);
