@@ -54,3 +54,16 @@ Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti 
 ---
 
 ---
+
+### **_JSnack2_**
+
+- _Dichiaro_ un Array _Name_;
+- _Dichiaro_ un Array _SurName_;
+- Scegli randomicamente 1 numero tra 0 e (max Array _Name_);
+- prendi il Nome che come indice equivale al numero random e stampalo;
+- Scegli randomicamente 1 numero tra 0 e (max Array _SurName_);
+- prendi il Cognome che come indice equivale al numero random e stampalo;
+
+---
+
+---
