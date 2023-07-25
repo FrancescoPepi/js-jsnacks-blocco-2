@@ -67,3 +67,20 @@ Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti 
 ---
 
 ---
+
+### **_JSnack3_**
+
+- Crea un array di numeri interi
+- _Dichiara_ _NumeriDispari_
+
+**PER OGNI** numero
+
+- **SE** si trova in posizione dispari
+
+  - sommalo a _NumeriDispari_
+
+Stampa il risultato
+
+---
+
+---
